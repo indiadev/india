@@ -1,0 +1,9 @@
+Building INDIA
+
+See doc/readme-qt.rst for instructions on building INDIA QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of INDIA.
+
+See doc/build-*.txt for instructions on building indiad,
+the intended-for-services, no-graphical-interface, reference
+implementation of INDIA.
